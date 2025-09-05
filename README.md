@@ -5,7 +5,7 @@
 
 🚀 **Problem Statement**
 
-- Telecom companies face high customer churn rates. Identifying and analyzing churn behavior helps
+Telecom companies face high customer churn rates. Identifying and analyzing churn behavior helps
   improve retention strategies. Using SQL, we will explore the dataset with functions to handle aggregations,
   strings, dates, duplicates, and more.
 
