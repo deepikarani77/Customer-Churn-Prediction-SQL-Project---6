@@ -1,3 +1,97 @@
+
+✨ **Excited to share my latest project!** ✨
+
+**Project Name: Customer-Churn-Prediction SQL Project using Functions in SQL**
+
+🚀 **Problem Statement**
+
+- Telecom companies face high customer churn rates. Identifying and analyzing churn behavior helps
+  improve retention strategies. Using SQL, we will explore the dataset with functions to handle aggregations,
+  strings, dates, duplicates, and more.
+
+🚀 **Solution**
+
+- We use SQL functions (aggregate, scalar, string, numeric, date, and miscellaneous) to:
+- Summarize customer churn trends
+- Clean and manipulate customer data
+- Identify duplicate entries
+- Extract meaningful insights for churn prediction
+
+🚀 **concepts used in this project**.
+
+1.	Advantages of sql functions
+2.	Aggregate functions
+3.	Scalar functions
+4.	String functions
+5.	Numeric functions
+6.	Date and Time functions
+7.	Handling duplicate records
+8.	Miscellaneous functions and its type
+
+🚀 **Goal**:
+
+- Perform data preprocessing & cleaning with SQL functions.
+- Generate churn insights using aggregations.
+- Build real-world SQL tasks to strengthen job opportunities.
+
+🚀 **Tech stack**
+
+- Database: MySQL
+- Dataset: Customer churn dataset
+- Tools: SQL functions
+
+🚀 **Tech Used**:
+
+- SQL Functions
+- Data Cleaning & Transformation
+- Churn Insights Extraction
+
+🚀 **Key Skills Shown**:
+
+- SQL Functions (aggregate, scalar, string, numeric, date/time, miscellaneous)
+- Data Cleaning (duplicates handling)
+- Churn-related business insights
+- Query Optimization
+
+🚀 **What I Did in this Project**?
+
+- Designed real-time SQL queries using functions.
+- Cleaned churn dataset (removed duplicates, handled nulls).
+- Applied SQL functions to extract insights.
+
+🚀 **What I Learnt**?
+
+- Practical usage of SQL functions in churn prediction.
+- Cleaning and transforming customer data in SQL.
+- Writing real-time SQL tasks for Data Science projects.
+
+🚀 **What is Impact**?
+
+- Helps companies reduce churn by identifying key reasons.
+- Shows employers my hands-on SQL expertise.
+- Strengthens my resume and GitHub portfolio.
+
+🚀 **Skills**
+
+- SQL Queries
+- Data Cleaning
+- Customer Analytics
+- Churn Prediction
+- Problem Solving
+
+**#CustomerChurnPrediction #SQLProject #DataScienceProjects #SQLFunctions #DataCleaning 
+#FresherDataScientist #ChurnAnalysis #MySQL #DataAnalytics #DataSciencePortfolio #SQLForDataScience #JobReadySkills**
+
+
+
+
+
+
+
+
+
+
+
 **Functions in sql** 
 <img width="1391" height="836" alt="1  advantages of sql functions" src="https://github.com/user-attachments/assets/ef993868-6a48-4b4a-b688-3fbda4d6dbcd" />
 <img width="1216" height="902" alt="2  aggregate functions and its types" src="https://github.com/user-attachments/assets/a86a41e2-0240-4547-8a69-297c5fb7e9d8" />
